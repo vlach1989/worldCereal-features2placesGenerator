@@ -1,10 +1,19 @@
 const { v4: uuidv4 } = require('uuid');
 const fs = require('fs');
-const path = require('path');
+const validator = require('validator');
 
 const config = require('./inputs/config.json');
 const features = require('./inputs/fetaures.json');
 const linking = require('./inputs/placeKeyByFeatureKey.json');
+
+/**
+ * check, if JSON is valid
+ * @param json {JSON}
+ * @returns {boolean}
+ */
+function isValidJson(json) {
+    return validator.isJSON(json);
+}
 
 /**
  * Generate place metadata
@@ -30,27 +39,39 @@ function getPlaceMetadata(key, featureKey, nameDisplay, placeLinking) {
  * @param linking {Object} featureKey-placeKey pairs
  */
 function createLinkingFile(linking) {
-    fs.writeFile('./outputs/placeKeyByFeatrueKey.json', JSON.stringify(linking, null, "\t"), err => {
-        if (err) {
-            console.error("Error while creating placeKeyByFeatureKey.json file!");
-        } else {
-            console.log("placeKeyByFeatureKey.json file was created successfully");
-        }
-    });
+    const json = JSON.stringify(linking, null, "\t");
+
+    if (isValidJson(json)) {
+        fs.writeFile('./outputs/placeKeyByFeatrueKey.json', json, err => {
+            if (err) {
+                console.error("Error while creating placeKeyByFeatureKey.json file! File writing failed.");
+            } else {
+                console.log("placeKeyByFeatureKey.json file was created successfully");
+            }
+        });
+    } else {
+        throw new Error("Error while creating placeKeyByFeatureKey.json file! JSON is not valid.")
+    }
 }
 
 /**
- * Create linking file
- * @param linking {Object} featureKey-placeKey pairs
+ * Create places file
+ * @param places {Array}
  */
-function createPlacesFile(linking) {
-    fs.writeFile('./outputs/places.json', JSON.stringify(linking, null, "\t"), err => {
-        if (err) {
-            console.error("Error while creating places.json file!");
-        } else {
-            console.log("places.json file was created successfully");
-        }
-    });
+function createPlacesFile(places) {
+    const json = JSON.stringify(places, null, "\t");
+
+    if (isValidJson(json)) {
+        fs.writeFile('./outputs/places.json', json, err => {
+            if (err) {
+                console.error("Error while creating places.json file!");
+            } else {
+                console.log("places.json file was created successfully");
+            }
+        });
+    } else {
+        throw new Error("Error while creating places.json file! JSON is not valid.")
+    }
 }
 
 /**

@@ -10,6 +10,7 @@
   "author": "@vlach1989",
   "license": "",
   "dependencies": {
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "validator": "^13.7.0"
   }
 }
