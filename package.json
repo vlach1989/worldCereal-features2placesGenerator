@@ -1,0 +1,15 @@
+{
+  "name": "worldCereal-features2placesGenerator",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@vlach1989",
+  "license": "",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
