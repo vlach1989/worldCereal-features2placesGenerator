@@ -1,0 +1,9402 @@
+[
+	{
+		"key": "43cc706b-1f34-4952-a7d2-6fa9f96adc8e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Aruba",
+			"nameInternal": "place_ABW",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-70.063,
+								12.47
+							],
+							[
+								-69.883,
+								12.47
+							],
+							[
+								-69.883,
+								12.602
+							],
+							[
+								-70.063,
+								12.602
+							],
+							[
+								-70.063,
+								12.47
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9a1a14d8-1fb3-4d98-982c-f86246b11046",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Afghanistan",
+			"nameInternal": "place_AFG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								60.505,
+								29.362
+							],
+							[
+								74.89,
+								29.362
+							],
+							[
+								74.89,
+								38.477
+							],
+							[
+								60.505,
+								38.477
+							],
+							[
+								60.505,
+								29.362
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "effe18d9-b929-4472-99b8-3103095527fd",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Angola",
+			"nameInternal": "place_AGO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								11.731,
+								-18.041
+							],
+							[
+								24.076,
+								-18.041
+							],
+							[
+								24.076,
+								-4.386
+							],
+							[
+								11.731,
+								-4.386
+							],
+							[
+								11.731,
+								-18.041
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6f2b3b8d-e357-4192-9690-dfda24059a85",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Aland",
+			"nameInternal": "place_ALA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								19.517,
+								60.017
+							],
+							[
+								20.257,
+								60.017
+							],
+							[
+								20.257,
+								60.421
+							],
+							[
+								19.517,
+								60.421
+							],
+							[
+								19.517,
+								60.017
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "61f87367-db88-4c41-b8b9-0c138ed34e19",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Albania",
+			"nameInternal": "place_ALB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								19.286,
+								39.689
+							],
+							[
+								21.032,
+								39.689
+							],
+							[
+								21.032,
+								42.658
+							],
+							[
+								19.286,
+								42.658
+							],
+							[
+								19.286,
+								39.689
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "99cbeea4-66ea-46c5-ad57-599e9ccb9675",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Andorra",
+			"nameInternal": "place_AND",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								1.441,
+								42.438
+							],
+							[
+								1.723,
+								42.438
+							],
+							[
+								1.723,
+								42.612
+							],
+							[
+								1.441,
+								42.612
+							],
+							[
+								1.441,
+								42.438
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "59db08ce-b722-45f5-89ed-ef6d89e70658",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "United Arab Emirates",
+			"nameInternal": "place_ARE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								51.589,
+								22.632
+							],
+							[
+								56.372,
+								22.632
+							],
+							[
+								56.372,
+								26.051
+							],
+							[
+								51.589,
+								26.051
+							],
+							[
+								51.589,
+								22.632
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "4bd3aafb-5204-47b7-b5a5-298e9ca992be",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Argentina",
+			"nameInternal": "place_ARG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.522,
+								-55.057
+							],
+							[
+								-53.592,
+								-55.057
+							],
+							[
+								-53.592,
+								-21.789
+							],
+							[
+								-73.522,
+								-21.789
+							],
+							[
+								-73.522,
+								-55.057
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9aadf48f-c3f9-4aca-ae80-f9d73a5f041f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Armenia",
+			"nameInternal": "place_ARM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								43.471,
+								38.835
+							],
+							[
+								46.579,
+								38.835
+							],
+							[
+								46.579,
+								41.301
+							],
+							[
+								43.471,
+								41.301
+							],
+							[
+								43.471,
+								38.835
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f4b57d16-8f06-4fbb-966f-c83f56b917f3",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "American Samoa",
+			"nameInternal": "place_ASM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-170.79,
+								-14.365
+							],
+							[
+								-170.673,
+								-14.365
+							],
+							[
+								-170.673,
+								-14.246
+							],
+							[
+								-170.79,
+								-14.246
+							],
+							[
+								-170.79,
+								-14.365
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9f7fdeca-8c26-4ce8-9ef9-8b0892603bcf",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Antarctica",
+			"nameInternal": "place_ATA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-180,
+								-90
+							],
+							[
+								180,
+								-90
+							],
+							[
+								180,
+								-60.512
+							],
+							[
+								-180,
+								-60.512
+							],
+							[
+								-180,
+								-90
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e48922fe-fa1d-4045-9485-fa676559ed2b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "French Southern Territories",
+			"nameInternal": "place_ATF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								50.188,
+								-49.731
+							],
+							[
+								70.519,
+								-49.731
+							],
+							[
+								70.519,
+								-46.06
+							],
+							[
+								50.188,
+								-46.06
+							],
+							[
+								50.188,
+								-49.731
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "712195f2-0996-4bdd-8b22-079f663085da",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Antigua and Barbuda",
+			"nameInternal": "place_ATG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.89,
+								17.026
+							],
+							[
+								-61.675,
+								17.026
+							],
+							[
+								-61.675,
+								17.73
+							],
+							[
+								-61.89,
+								17.73
+							],
+							[
+								-61.89,
+								17.026
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "95134efd-eabc-4432-bd46-900276d8427d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Australia",
+			"nameInternal": "place_AUS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								112.928,
+								-43.63
+							],
+							[
+								153.637,
+								-43.63
+							],
+							[
+								153.637,
+								-10.059
+							],
+							[
+								112.928,
+								-10.059
+							],
+							[
+								112.928,
+								-43.63
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "4a36017f-ab0e-4d02-bda1-ee0f8c9bf465",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Austria",
+			"nameInternal": "place_AUT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								9.532,
+								46.414
+							],
+							[
+								17.161,
+								46.414
+							],
+							[
+								17.161,
+								49.013
+							],
+							[
+								9.532,
+								49.013
+							],
+							[
+								9.532,
+								46.414
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "8f06ae16-a84a-4cba-9263-4407f72aa8ed",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Azerbaijan",
+			"nameInternal": "place_AZE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								44.773,
+								38.402
+							],
+							[
+								50.358,
+								38.402
+							],
+							[
+								50.358,
+								41.907
+							],
+							[
+								44.773,
+								41.907
+							],
+							[
+								44.773,
+								38.402
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "07f751d5-2ded-4de1-8427-f10fd831b148",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Burundi",
+			"nameInternal": "place_BDI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								29.001,
+								-4.445
+							],
+							[
+								30.848,
+								-4.445
+							],
+							[
+								30.848,
+								-2.31
+							],
+							[
+								29.001,
+								-2.31
+							],
+							[
+								29.001,
+								-4.445
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6d68793b-cf63-4ed0-a424-7acb30da045f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Belgium",
+			"nameInternal": "place_BEL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.555,
+								49.518
+							],
+							[
+								6.378,
+								49.518
+							],
+							[
+								6.378,
+								51.498
+							],
+							[
+								2.555,
+								51.498
+							],
+							[
+								2.555,
+								49.518
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "0183b602-5c79-4db6-8b10-f8f753c1f086",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Benin",
+			"nameInternal": "place_BEN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								0.775,
+								6.236
+							],
+							[
+								3.852,
+								6.236
+							],
+							[
+								3.852,
+								12.411
+							],
+							[
+								0.775,
+								12.411
+							],
+							[
+								0.775,
+								6.236
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d5bd1a73-c781-4578-a1b0-a3a3e983ec15",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bonaire, Sint Eustatius and Saba",
+			"nameInternal": "place_BES",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-68.412,
+								12.046
+							],
+							[
+								-68.209,
+								12.046
+							],
+							[
+								-68.209,
+								12.312
+							],
+							[
+								-68.412,
+								12.312
+							],
+							[
+								-68.412,
+								12.046
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "44355273-86b0-4f27-80d2-36b01d1d469b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Burkina Faso",
+			"nameInternal": "place_BFA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-5.519,
+								9.419
+							],
+							[
+								2.405,
+								9.419
+							],
+							[
+								2.405,
+								15.082
+							],
+							[
+								-5.519,
+								15.082
+							],
+							[
+								-5.519,
+								9.419
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "dd3096bf-6671-434b-af01-d211d0da0a8e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bangladesh",
+			"nameInternal": "place_BGD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								88.011,
+								20.775
+							],
+							[
+								92.674,
+								20.775
+							],
+							[
+								92.674,
+								26.594
+							],
+							[
+								88.011,
+								26.594
+							],
+							[
+								88.011,
+								20.775
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "0c1b4595-5e2b-474a-a302-cbbad38f1d70",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bulgaria",
+			"nameInternal": "place_BGR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								22.344,
+								41.24
+							],
+							[
+								28.58,
+								41.24
+							],
+							[
+								28.58,
+								44.213
+							],
+							[
+								22.344,
+								44.213
+							],
+							[
+								22.344,
+								41.24
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "53e81058-0d9b-44b9-a3ba-2f3ba4884e06",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bahrain",
+			"nameInternal": "place_BHR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								50.324,
+								25.808
+							],
+							[
+								50.599,
+								25.808
+							],
+							[
+								50.599,
+								26.242
+							],
+							[
+								50.324,
+								26.242
+							],
+							[
+								50.324,
+								25.808
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "cc2507eb-5647-4fa4-a8a7-f267d592510e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bahamas",
+			"nameInternal": "place_BHS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-78.802,
+								20.941
+							],
+							[
+								-72.756,
+								20.941
+							],
+							[
+								-72.756,
+								26.793
+							],
+							[
+								-78.802,
+								26.793
+							],
+							[
+								-78.802,
+								20.941
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "7e26216a-9097-4301-8438-7a171234023c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bosnia and Herzegovina",
+			"nameInternal": "place_BIH",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								15.737,
+								42.565
+							],
+							[
+								19.612,
+								42.565
+							],
+							[
+								19.612,
+								45.23
+							],
+							[
+								15.737,
+								45.23
+							],
+							[
+								15.737,
+								42.565
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "2b1662b1-ae61-41ae-96fd-f3e66df4e490",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Belarus",
+			"nameInternal": "place_BLR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								23.204,
+								51.27
+							],
+							[
+								32.767,
+								51.27
+							],
+							[
+								32.767,
+								56.161
+							],
+							[
+								23.204,
+								56.161
+							],
+							[
+								23.204,
+								51.27
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "57c088da-389c-44b6-a7eb-5601e8918b7b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Belize",
+			"nameInternal": "place_BLZ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-89.213,
+								15.895
+							],
+							[
+								-87.845,
+								15.895
+							],
+							[
+								-87.845,
+								18.488
+							],
+							[
+								-89.213,
+								18.488
+							],
+							[
+								-89.213,
+								15.895
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a8d6c170-9cc5-4d3c-9dda-7955faf8f1e8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bolivia",
+			"nameInternal": "place_BOL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-69.617,
+								-22.907
+							],
+							[
+								-57.506,
+								-22.907
+							],
+							[
+								-57.506,
+								-9.671
+							],
+							[
+								-69.617,
+								-9.671
+							],
+							[
+								-69.617,
+								-22.907
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "eaee3d97-2938-497c-b008-b43d5d5dbe89",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Brazil",
+			"nameInternal": "place_BRA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.953,
+								-33.744
+							],
+							[
+								-34.793,
+								-33.744
+							],
+							[
+								-34.793,
+								5.244
+							],
+							[
+								-73.953,
+								5.244
+							],
+							[
+								-73.953,
+								-33.744
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "bc04920f-ca16-484f-b970-1b41f15667b8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Barbados",
+			"nameInternal": "place_BRB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-59.63,
+								13.052
+							],
+							[
+								-59.42,
+								13.052
+							],
+							[
+								-59.42,
+								13.335
+							],
+							[
+								-59.63,
+								13.335
+							],
+							[
+								-59.63,
+								13.052
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "824991cb-d241-4951-83ce-88fd8a03d047",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Brunei",
+			"nameInternal": "place_BRN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								114.128,
+								4.035
+							],
+							[
+								115.339,
+								4.035
+							],
+							[
+								115.339,
+								5.046
+							],
+							[
+								114.128,
+								5.046
+							],
+							[
+								114.128,
+								4.035
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1bbdd0d9-ec6b-4816-b314-febbd869ccf9",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bhutan",
+			"nameInternal": "place_BTN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								88.748,
+								26.702
+							],
+							[
+								92.103,
+								26.702
+							],
+							[
+								92.103,
+								28.225
+							],
+							[
+								88.748,
+								28.225
+							],
+							[
+								88.748,
+								26.702
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f0758a61-9cb5-4957-8221-94dfef6795c8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Bouvet Island",
+			"nameInternal": "place_BVT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								3.323,
+								-54.464
+							],
+							[
+								3.468,
+								-54.464
+							],
+							[
+								3.468,
+								-54.39
+							],
+							[
+								3.323,
+								-54.39
+							],
+							[
+								3.323,
+								-54.464
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "65d5f03f-5839-4a0f-bad7-eecaf75803b7",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Botswana",
+			"nameInternal": "place_BWA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								20,
+								-26.874
+							],
+							[
+								29.368,
+								-26.874
+							],
+							[
+								29.368,
+								-17.79
+							],
+							[
+								20,
+								-17.79
+							],
+							[
+								20,
+								-26.874
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "0d42b896-196e-4d95-b827-01e51f23efb4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Central African Republic",
+			"nameInternal": "place_CAF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								14.419,
+								2.225
+							],
+							[
+								27.463,
+								2.225
+							],
+							[
+								27.463,
+								11.008
+							],
+							[
+								14.419,
+								11.008
+							],
+							[
+								14.419,
+								2.225
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6841ff56-bb61-4730-b694-3f09c484c448",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Canada",
+			"nameInternal": "place_CAN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-141.003,
+								41.677
+							],
+							[
+								-52.635,
+								41.677
+							],
+							[
+								-52.635,
+								83.109
+							],
+							[
+								-141.003,
+								83.109
+							],
+							[
+								-141.003,
+								41.677
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "103957d0-10a0-4f5d-8f61-4e941fc8fc2c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Côte d'Ivoire",
+			"nameInternal": "place_CIV",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-8.569,
+								4.362
+							],
+							[
+								-2.495,
+								4.362
+							],
+							[
+								-2.495,
+								10.737
+							],
+							[
+								-8.569,
+								10.737
+							],
+							[
+								-8.569,
+								4.362
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "fc4c7293-a644-484b-aa7c-6bb8ade9595c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cameroon",
+			"nameInternal": "place_CMR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								8.515,
+								1.659
+							],
+							[
+								16.189,
+								1.659
+							],
+							[
+								16.189,
+								13.077
+							],
+							[
+								8.515,
+								13.077
+							],
+							[
+								8.515,
+								1.659
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "3d91d438-2a03-46f7-a9d1-a022d6ccf208",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Democratic Republic of the Congo",
+			"nameInternal": "place_COD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								12.208,
+								-13.445
+							],
+							[
+								31.306,
+								-13.445
+							],
+							[
+								31.306,
+								5.364
+							],
+							[
+								12.208,
+								5.364
+							],
+							[
+								12.208,
+								-13.445
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "61e35587-5029-4edb-9e31-753a122a72f3",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Republic of the Congo",
+			"nameInternal": "place_COG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								11.201,
+								-5.028
+							],
+							[
+								18.642,
+								-5.028
+							],
+							[
+								18.642,
+								3.703
+							],
+							[
+								11.201,
+								3.703
+							],
+							[
+								11.201,
+								-5.028
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "ea814de1-4a8b-4b8d-9f7d-404215ab68cb",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cook Islands",
+			"nameInternal": "place_COK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-163.198,
+								-18.096
+							],
+							[
+								-163.152,
+								-18.096
+							],
+							[
+								-163.152,
+								-17.997
+							],
+							[
+								-163.198,
+								-17.997
+							],
+							[
+								-163.198,
+								-18.096
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "70954135-bd3b-453e-8c51-68c570ab6399",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Colombia",
+			"nameInternal": "place_COL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-78.996,
+								-4.228
+							],
+							[
+								-66.857,
+								-4.228
+							],
+							[
+								-66.857,
+								12.44
+							],
+							[
+								-78.996,
+								12.44
+							],
+							[
+								-78.996,
+								-4.228
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "eaa2e105-6bf4-457a-afbe-43dd88f32d36",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Comoros",
+			"nameInternal": "place_COM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								43.23,
+								-12.392
+							],
+							[
+								44.528,
+								-12.392
+							],
+							[
+								44.528,
+								-11.365
+							],
+							[
+								43.23,
+								-11.365
+							],
+							[
+								43.23,
+								-12.392
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "bf3d0abe-6c59-4999-9aa0-0f43e610195f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cabo Verde",
+			"nameInternal": "place_CPV",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-25.331,
+								14.813
+							],
+							[
+								-22.674,
+								14.813
+							],
+							[
+								-22.674,
+								17.205
+							],
+							[
+								-25.331,
+								17.205
+							],
+							[
+								-25.331,
+								14.813
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "89746a4c-7ad8-49d7-8fa8-bb702f13d25a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Costa Rica",
+			"nameInternal": "place_CRI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-85.916,
+								8.051
+							],
+							[
+								-82.564,
+								8.051
+							],
+							[
+								-82.564,
+								11.22
+							],
+							[
+								-85.916,
+								11.22
+							],
+							[
+								-85.916,
+								8.051
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "974d0224-d45b-4185-8c62-05bb76041420",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cuba",
+			"nameInternal": "place_CUB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-84.916,
+								19.826
+							],
+							[
+								-74.143,
+								19.826
+							],
+							[
+								-74.143,
+								23.179
+							],
+							[
+								-84.916,
+								23.179
+							],
+							[
+								-84.916,
+								19.826
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "3788b179-bddb-44e7-86be-af949a34d80c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Curaçao",
+			"nameInternal": "place_CUW",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-69.153,
+								12.065
+							],
+							[
+								-68.76,
+								12.065
+							],
+							[
+								-68.76,
+								12.393
+							],
+							[
+								-69.153,
+								12.393
+							],
+							[
+								-69.153,
+								12.065
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "3ef3110d-ed85-4903-ad75-f3fdd3ac1491",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cayman Islands",
+			"nameInternal": "place_CYM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-81.393,
+								19.263
+							],
+							[
+								-81.096,
+								19.263
+							],
+							[
+								-81.096,
+								19.397
+							],
+							[
+								-81.393,
+								19.397
+							],
+							[
+								-81.393,
+								19.263
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9232fdce-585c-41be-8785-421775c3b2ae",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cyprus",
+			"nameInternal": "place_CYP",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								32.276,
+								34.634
+							],
+							[
+								34.078,
+								34.634
+							],
+							[
+								34.078,
+								35.198
+							],
+							[
+								32.276,
+								35.198
+							],
+							[
+								32.276,
+								34.634
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "431357a4-4216-463e-b787-3e231539e983",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Czechia",
+			"nameInternal": "place_CZE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								12.13,
+								48.603
+							],
+							[
+								18.85,
+								48.603
+							],
+							[
+								18.85,
+								51.055
+							],
+							[
+								12.13,
+								51.055
+							],
+							[
+								12.13,
+								48.603
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a605279e-de9e-4bc5-8841-ae1dd3f03c5c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Germany",
+			"nameInternal": "place_DEU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.945,
+								47.276
+							],
+							[
+								15.038,
+								47.276
+							],
+							[
+								15.038,
+								55.049
+							],
+							[
+								5.945,
+								55.049
+							],
+							[
+								5.945,
+								47.276
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "215f2707-386f-4570-a033-19be2ed1dd09",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Djibouti",
+			"nameInternal": "place_DJI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								41.761,
+								10.914
+							],
+							[
+								43.408,
+								10.914
+							],
+							[
+								43.408,
+								12.707
+							],
+							[
+								41.761,
+								12.707
+							],
+							[
+								41.761,
+								10.914
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "63cc3795-ca8f-4af5-a0aa-b527fa64f3d4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Dominica",
+			"nameInternal": "place_DMA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.471,
+								15.212
+							],
+							[
+								-61.257,
+								15.212
+							],
+							[
+								-61.257,
+								15.64
+							],
+							[
+								-61.471,
+								15.64
+							],
+							[
+								-61.471,
+								15.212
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e816b32c-8c2c-4d42-9d0e-0cd12a2e2b39",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Denmark",
+			"nameInternal": "place_DNK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								8.079,
+								54.613
+							],
+							[
+								15.153,
+								54.613
+							],
+							[
+								15.153,
+								57.752
+							],
+							[
+								8.079,
+								57.752
+							],
+							[
+								8.079,
+								54.613
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "4b78fba3-ad3d-409b-bb45-9b664b8c83f3",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Dominican Republic",
+			"nameInternal": "place_DOM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-72.004,
+								17.604
+							],
+							[
+								-68.326,
+								17.604
+							],
+							[
+								-68.326,
+								19.931
+							],
+							[
+								-72.004,
+								19.931
+							],
+							[
+								-72.004,
+								17.604
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e6abb100-c908-4548-8e4b-e1fbbc935ae8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Algeria",
+			"nameInternal": "place_DZA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-8.674,
+								18.96
+							],
+							[
+								11.98,
+								18.96
+							],
+							[
+								11.98,
+								37.089
+							],
+							[
+								-8.674,
+								37.089
+							],
+							[
+								-8.674,
+								18.96
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "fe4124f8-e378-46b7-ba92-584af8c71128",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Ecuador",
+			"nameInternal": "place_ECU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-91.656,
+								-5.014
+							],
+							[
+								-75.223,
+								-5.014
+							],
+							[
+								-75.223,
+								1.47
+							],
+							[
+								-91.656,
+								1.47
+							],
+							[
+								-91.656,
+								-5.014
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "0577c335-bf69-4d21-99c7-7ae4f5fbbd04",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Egypt",
+			"nameInternal": "place_EGY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								24.698,
+								21.725
+							],
+							[
+								35.768,
+								21.725
+							],
+							[
+								35.768,
+								31.668
+							],
+							[
+								24.698,
+								31.668
+							],
+							[
+								24.698,
+								21.725
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a514cb79-5e63-4014-98bd-859d1397ae36",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Eritrea",
+			"nameInternal": "place_ERI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								36.439,
+								12.357
+							],
+							[
+								43.134,
+								12.357
+							],
+							[
+								43.134,
+								18.007
+							],
+							[
+								36.439,
+								18.007
+							],
+							[
+								36.439,
+								12.357
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "58777e68-6ddd-4f15-b106-fb558a4cb3c2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Western Sahara",
+			"nameInternal": "place_ESH",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-17.104,
+								20.772
+							],
+							[
+								-8.67,
+								20.772
+							],
+							[
+								-8.67,
+								27.683
+							],
+							[
+								-17.104,
+								27.683
+							],
+							[
+								-17.104,
+								20.772
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e9610e06-c5eb-4133-84de-d2cf7afe6f9d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Spain",
+			"nameInternal": "place_ESP",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-18.147,
+								27.647
+							],
+							[
+								4.31,
+								27.647
+							],
+							[
+								4.31,
+								43.77
+							],
+							[
+								-18.147,
+								43.77
+							],
+							[
+								-18.147,
+								27.647
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c7de06be-48ae-4546-8d6c-7f4d632c7343",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Estonia",
+			"nameInternal": "place_EST",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								21.85,
+								57.525
+							],
+							[
+								28.207,
+								57.525
+							],
+							[
+								28.207,
+								59.622
+							],
+							[
+								21.85,
+								59.622
+							],
+							[
+								21.85,
+								57.525
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "307722aa-a233-49b5-a039-819252de0964",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Ethiopia",
+			"nameInternal": "place_ETH",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								33.01,
+								3.412
+							],
+							[
+								47.958,
+								3.412
+							],
+							[
+								47.958,
+								14.845
+							],
+							[
+								33.01,
+								14.845
+							],
+							[
+								33.01,
+								3.412
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "477c11a7-a5bc-44bf-9c71-121564b12bdd",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Finland",
+			"nameInternal": "place_FIN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								20.551,
+								59.887
+							],
+							[
+								31.577,
+								59.887
+							],
+							[
+								31.577,
+								70.09
+							],
+							[
+								20.551,
+								70.09
+							],
+							[
+								20.551,
+								59.887
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "92c2c817-558a-44dc-a454-8d5c3fa8f7f5",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Fiji",
+			"nameInternal": "place_FJI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-180,
+								-19.134
+							],
+							[
+								180,
+								-19.134
+							],
+							[
+								180,
+								-16.139
+							],
+							[
+								-180,
+								-16.139
+							],
+							[
+								-180,
+								-19.134
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1fb99658-e228-41f9-a294-840d68e02c7c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Falkland Islands",
+			"nameInternal": "place_FLK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.348,
+								-52.321
+							],
+							[
+								-57.766,
+								-52.321
+							],
+							[
+								-57.766,
+								-51.233
+							],
+							[
+								-61.348,
+								-51.233
+							],
+							[
+								-61.348,
+								-52.321
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "56d6ac6c-8476-4e75-acbf-026b2383627d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "France",
+			"nameInternal": "place_FRA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-4.777,
+								41.368
+							],
+							[
+								9.555,
+								41.368
+							],
+							[
+								9.555,
+								51.089
+							],
+							[
+								-4.777,
+								51.089
+							],
+							[
+								-4.777,
+								41.368
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "984a8579-65bd-423d-b8cd-789e309dca1c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Faroe Islands",
+			"nameInternal": "place_FRO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-7.46,
+								61.832
+							],
+							[
+								-6.406,
+								61.832
+							],
+							[
+								-6.406,
+								62.39
+							],
+							[
+								-7.46,
+								62.39
+							],
+							[
+								-7.46,
+								61.832
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "96f3c274-3097-458e-8ddf-e2e7fba4b1bc",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Micronesia",
+			"nameInternal": "place_FSM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								158.149,
+								5.274
+							],
+							[
+								163.02,
+								5.274
+							],
+							[
+								163.02,
+								6.986
+							],
+							[
+								158.149,
+								6.986
+							],
+							[
+								158.149,
+								5.274
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "dd83c399-4f26-465f-a1ea-8de48e80a183",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Gabon",
+			"nameInternal": "place_GAB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								8.712,
+								-3.991
+							],
+							[
+								14.502,
+								-3.991
+							],
+							[
+								14.502,
+								2.316
+							],
+							[
+								8.712,
+								2.316
+							],
+							[
+								8.712,
+								-3.991
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "67c7db8d-080b-4f96-bace-211ee569bcb2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "United Kingdom",
+			"nameInternal": "place_GBR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-8.154,
+								49.979
+							],
+							[
+								1.764,
+								49.979
+							],
+							[
+								1.764,
+								60.732
+							],
+							[
+								-8.154,
+								60.732
+							],
+							[
+								-8.154,
+								49.979
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "136885d6-8f27-4a50-9ea7-b5987ce0ee4d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Georgia",
+			"nameInternal": "place_GEO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								40.012,
+								41.066
+							],
+							[
+								46.676,
+								41.066
+							],
+							[
+								46.676,
+								43.563
+							],
+							[
+								40.012,
+								43.563
+							],
+							[
+								40.012,
+								41.066
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "735c2a0d-5af8-4b2f-bdcc-b12900cd0a31",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guernsey",
+			"nameInternal": "place_GGY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.652,
+								49.425
+							],
+							[
+								-2.518,
+								49.425
+							],
+							[
+								-2.518,
+								49.51
+							],
+							[
+								-2.652,
+								49.51
+							],
+							[
+								-2.652,
+								49.425
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d047e177-64f0-4d42-824e-3f948789b740",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Ghana",
+			"nameInternal": "place_GHA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-3.262,
+								4.759
+							],
+							[
+								1.2,
+								4.759
+							],
+							[
+								1.2,
+								11.137
+							],
+							[
+								-3.262,
+								11.137
+							],
+							[
+								-3.262,
+								4.759
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "75599a4b-e2f2-4bb8-ac20-c99653f74ea8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guinea",
+			"nameInternal": "place_GIN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-15.074,
+								7.201
+							],
+							[
+								-7.641,
+								7.201
+							],
+							[
+								-7.641,
+								12.674
+							],
+							[
+								-15.074,
+								12.674
+							],
+							[
+								-15.074,
+								7.201
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "04a37d79-5841-4969-babf-7c3e43e1209e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guadeloupe",
+			"nameInternal": "place_GLP",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.802,
+								15.872
+							],
+							[
+								-61.2,
+								15.872
+							],
+							[
+								-61.2,
+								16.515
+							],
+							[
+								-61.802,
+								16.515
+							],
+							[
+								-61.802,
+								15.872
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c3a36c9e-037d-484d-a863-93c08c1fbab7",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Gambia",
+			"nameInternal": "place_GMB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-16.813,
+								13.065
+							],
+							[
+								-13.792,
+								13.065
+							],
+							[
+								-13.792,
+								13.827
+							],
+							[
+								-16.813,
+								13.827
+							],
+							[
+								-16.813,
+								13.065
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9eea78d5-cb42-4965-bacf-27e162b542d6",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guinea-Bissau",
+			"nameInternal": "place_GNB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-16.715,
+								10.93
+							],
+							[
+								-13.666,
+								10.93
+							],
+							[
+								-13.666,
+								12.684
+							],
+							[
+								-16.715,
+								12.684
+							],
+							[
+								-16.715,
+								10.93
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "eb2a9bd2-f222-4728-a53c-38860214a0a5",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Equatorial Guinea",
+			"nameInternal": "place_GNQ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								8.415,
+								0.925
+							],
+							[
+								11.335,
+								0.925
+							],
+							[
+								11.335,
+								3.789
+							],
+							[
+								8.415,
+								3.789
+							],
+							[
+								8.415,
+								0.925
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "94aaef7e-a458-4dc4-bba7-172a4362aa68",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Greece",
+			"nameInternal": "place_GRC",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								19.637,
+								34.94
+							],
+							[
+								28.221,
+								34.94
+							],
+							[
+								28.221,
+								41.714
+							],
+							[
+								19.637,
+								41.714
+							],
+							[
+								19.637,
+								34.94
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "5c98c4e3-28af-4ff1-aa5a-68284ed00749",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Grenada",
+			"nameInternal": "place_GRD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.753,
+								11.989
+							],
+							[
+								-61.636,
+								11.989
+							],
+							[
+								-61.636,
+								12.235
+							],
+							[
+								-61.753,
+								12.235
+							],
+							[
+								-61.753,
+								11.989
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "eabc41f3-2876-497d-a4f7-1f74ba08f759",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Greenland",
+			"nameInternal": "place_GRL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-72.81,
+								59.805
+							],
+							[
+								-12.188,
+								59.805
+							],
+							[
+								-12.188,
+								83.657
+							],
+							[
+								-72.81,
+								83.657
+							],
+							[
+								-72.81,
+								59.805
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9be82fa4-d581-46c8-afd5-d391b1a6419e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guatemala",
+			"nameInternal": "place_GTM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-92.22,
+								13.742
+							],
+							[
+								-88.226,
+								13.742
+							],
+							[
+								-88.226,
+								17.815
+							],
+							[
+								-92.22,
+								17.815
+							],
+							[
+								-92.22,
+								13.742
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "724372f1-755a-4738-a02b-d821e8b42aac",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "French Guiana",
+			"nameInternal": "place_GUF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-54.525,
+								2.129
+							],
+							[
+								-51.606,
+								2.129
+							],
+							[
+								-51.606,
+								5.745
+							],
+							[
+								-54.525,
+								5.745
+							],
+							[
+								-54.525,
+								2.129
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e1daec67-029f-4d30-a0fc-3ccbbfb4e51e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guam",
+			"nameInternal": "place_GUM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								144.662,
+								13.253
+							],
+							[
+								144.953,
+								13.253
+							],
+							[
+								144.953,
+								13.654
+							],
+							[
+								144.662,
+								13.654
+							],
+							[
+								144.662,
+								13.253
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d870e279-7590-41e8-acbc-256e4ec59052",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Guyana",
+			"nameInternal": "place_GUY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.387,
+								1.177
+							],
+							[
+								-56.48,
+								1.177
+							],
+							[
+								-56.48,
+								8.53
+							],
+							[
+								-61.387,
+								8.53
+							],
+							[
+								-61.387,
+								1.177
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "61f0415d-e7d8-4957-adbb-79e2f73b6dcf",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Heard Island and McDonald Island",
+			"nameInternal": "place_HMD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								73.308,
+								-53.194
+							],
+							[
+								73.733,
+								-53.194
+							],
+							[
+								73.733,
+								-52.974
+							],
+							[
+								73.308,
+								-52.974
+							],
+							[
+								73.308,
+								-53.194
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "660ffa5a-7f76-4115-8f24-170085afa8c3",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Honduras",
+			"nameInternal": "place_HND",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-89.35,
+								12.991
+							],
+							[
+								-83.147,
+								12.991
+							],
+							[
+								-83.147,
+								15.983
+							],
+							[
+								-89.35,
+								15.983
+							],
+							[
+								-89.35,
+								12.991
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "19267c0d-18ae-4eb2-8739-d44b0d5509c2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Croatia",
+			"nameInternal": "place_HRV",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.567,
+								42.454
+							],
+							[
+								19.403,
+								42.454
+							],
+							[
+								19.403,
+								46.515
+							],
+							[
+								13.567,
+								46.515
+							],
+							[
+								13.567,
+								42.454
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "87755dc6-f42c-4885-923d-4bdb38bc0899",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Haiti",
+			"nameInternal": "place_HTI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-74.476,
+								18.023
+							],
+							[
+								-71.636,
+								18.023
+							],
+							[
+								-71.636,
+								20.09
+							],
+							[
+								-74.476,
+								20.09
+							],
+							[
+								-74.476,
+								18.023
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "5f518ff4-0801-46a8-b004-4120a178ad39",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Hungary",
+			"nameInternal": "place_HUN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								16.114,
+								45.749
+							],
+							[
+								22.905,
+								45.749
+							],
+							[
+								22.905,
+								48.577
+							],
+							[
+								16.114,
+								48.577
+							],
+							[
+								16.114,
+								45.749
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a6d973c5-6e18-49c1-8057-99a95720e4a7",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Switzerland",
+			"nameInternal": "place_CHE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.965,
+								45.823
+							],
+							[
+								10.473,
+								45.823
+							],
+							[
+								10.473,
+								47.8
+							],
+							[
+								5.965,
+								47.8
+							],
+							[
+								5.965,
+								45.823
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "288dae19-4bbe-4f0f-bca7-fa923222dc09",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Chile",
+			"nameInternal": "place_CHL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-109.431,
+								-55.891
+							],
+							[
+								-66.43,
+								-55.891
+							],
+							[
+								-66.43,
+								-17.499
+							],
+							[
+								-109.431,
+								-17.499
+							],
+							[
+								-109.431,
+								-55.891
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "7643d7e7-58b5-4a15-a8a9-2abb591d4b5a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "China",
+			"nameInternal": "place_CHN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								73.565,
+								18.2
+							],
+							[
+								134.753,
+								18.2
+							],
+							[
+								134.753,
+								53.553
+							],
+							[
+								73.565,
+								53.553
+							],
+							[
+								73.565,
+								18.2
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "8c2a55ff-46f7-4f12-ad01-cc27115bc633",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Indonesia",
+			"nameInternal": "place_IDN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								95.194,
+								-10.923
+							],
+							[
+								141.019,
+								-10.923
+							],
+							[
+								141.019,
+								5.657
+							],
+							[
+								95.194,
+								5.657
+							],
+							[
+								95.194,
+								-10.923
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "5fc17dcd-4a32-4e07-9806-7c105c26846c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Isle of Man",
+			"nameInternal": "place_IMN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-4.781,
+								54.093
+							],
+							[
+								-4.306,
+								54.093
+							],
+							[
+								-4.306,
+								54.418
+							],
+							[
+								-4.781,
+								54.418
+							],
+							[
+								-4.781,
+								54.093
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "da5f48c2-9eb2-4921-b470-c4b9b614d59b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "India",
+			"nameInternal": "place_IND",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								68.21,
+								6.78
+							],
+							[
+								97.379,
+								6.78
+							],
+							[
+								97.379,
+								35.501
+							],
+							[
+								68.21,
+								35.501
+							],
+							[
+								68.21,
+								6.78
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "4babc9e7-45d1-47a6-a282-4d0d7b877607",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Ireland",
+			"nameInternal": "place_IRL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-10.456,
+								51.493
+							],
+							[
+								-6.021,
+								51.493
+							],
+							[
+								-6.021,
+								55.368
+							],
+							[
+								-10.456,
+								55.368
+							],
+							[
+								-10.456,
+								51.493
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "33a2ef21-88fa-4e09-8927-095a96a26d8b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Iran",
+			"nameInternal": "place_IRN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								44.047,
+								25.067
+							],
+							[
+								63.317,
+								25.067
+							],
+							[
+								63.317,
+								39.773
+							],
+							[
+								44.047,
+								39.773
+							],
+							[
+								44.047,
+								25.067
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "ccc6ee99-1ac1-4705-a490-a5e5967a3d68",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Iraq",
+			"nameInternal": "place_IRQ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								38.797,
+								29.098
+							],
+							[
+								48.569,
+								29.098
+							],
+							[
+								48.569,
+								37.378
+							],
+							[
+								38.797,
+								37.378
+							],
+							[
+								38.797,
+								29.098
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1973281b-9026-4046-abc9-b4d936d104f2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Iceland",
+			"nameInternal": "place_ISL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-24.531,
+								63.398
+							],
+							[
+								-13.496,
+								63.398
+							],
+							[
+								-13.496,
+								66.53
+							],
+							[
+								-24.531,
+								66.53
+							],
+							[
+								-24.531,
+								63.398
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d642c37a-baf2-4523-be5c-5bb7cff6a6be",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Israel",
+			"nameInternal": "place_ISR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								34.268,
+								29.497
+							],
+							[
+								35.901,
+								29.497
+							],
+							[
+								35.901,
+								33.364
+							],
+							[
+								34.268,
+								33.364
+							],
+							[
+								34.268,
+								29.497
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "809e6761-8568-4ea1-a798-9138ba3c414a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Italy",
+			"nameInternal": "place_ITA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								6.631,
+								36.65
+							],
+							[
+								18.521,
+								36.65
+							],
+							[
+								18.521,
+								47.09
+							],
+							[
+								6.631,
+								47.09
+							],
+							[
+								6.631,
+								36.65
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a2a51f48-8efc-4f4a-8147-24c267409cbd",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Jamaica",
+			"nameInternal": "place_JAM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-78.357,
+								17.708
+							],
+							[
+								-76.201,
+								17.708
+							],
+							[
+								-76.201,
+								18.525
+							],
+							[
+								-78.357,
+								18.525
+							],
+							[
+								-78.357,
+								17.708
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "8fa27f52-c391-4ba0-a9df-c95f834405c4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Jersey",
+			"nameInternal": "place_JEY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-2.228,
+								49.165
+							],
+							[
+								-2.031,
+								49.165
+							],
+							[
+								-2.031,
+								49.263
+							],
+							[
+								-2.228,
+								49.263
+							],
+							[
+								-2.228,
+								49.165
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "2d2e9a00-af61-4584-a745-4c99730b5379",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Jordan",
+			"nameInternal": "place_JOR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								34.962,
+								29.183
+							],
+							[
+								39.302,
+								29.183
+							],
+							[
+								39.302,
+								33.368
+							],
+							[
+								34.962,
+								33.368
+							],
+							[
+								34.962,
+								29.183
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a976858a-06ab-494e-874e-1db5d7f0092c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Japan",
+			"nameInternal": "place_JPN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								123.681,
+								24.255
+							],
+							[
+								145.804,
+								24.255
+							],
+							[
+								145.804,
+								45.523
+							],
+							[
+								123.681,
+								45.523
+							],
+							[
+								123.681,
+								24.255
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "fba26392-4ae5-4012-a89b-38cee34be419",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Kazakhstan",
+			"nameInternal": "place_KAZ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								46.492,
+								40.575
+							],
+							[
+								87.313,
+								40.575
+							],
+							[
+								87.313,
+								55.432
+							],
+							[
+								46.492,
+								55.432
+							],
+							[
+								46.492,
+								40.575
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d5194d4c-e2e9-4274-a280-813cce0295db",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Kenya",
+			"nameInternal": "place_KEN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								33.91,
+								-4.666
+							],
+							[
+								41.926,
+								-4.666
+							],
+							[
+								41.926,
+								5.058
+							],
+							[
+								33.91,
+								5.058
+							],
+							[
+								33.91,
+								-4.666
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c92ff694-8ffe-467e-9dce-c6fc34608833",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Kyrgyzstan",
+			"nameInternal": "place_KGZ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								69.28,
+								39.211
+							],
+							[
+								80.178,
+								39.211
+							],
+							[
+								80.178,
+								43.238
+							],
+							[
+								69.28,
+								43.238
+							],
+							[
+								69.28,
+								39.211
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "0c0cdd04-c753-4901-b157-dc647dd53124",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Cambodia",
+			"nameInternal": "place_KHM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								102.349,
+								10.423
+							],
+							[
+								107.617,
+								10.423
+							],
+							[
+								107.617,
+								14.686
+							],
+							[
+								102.349,
+								14.686
+							],
+							[
+								102.349,
+								10.423
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "ac0116c9-2dc2-4843-81eb-0864adc75089",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Kiribati",
+			"nameInternal": "place_KIR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-157.502,
+								1.693
+							],
+							[
+								-157.177,
+								1.693
+							],
+							[
+								-157.177,
+								2.049
+							],
+							[
+								-157.502,
+								2.049
+							],
+							[
+								-157.502,
+								1.693
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "92691524-d91a-486e-bf2b-7d4ff490ed46",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saint Kitts and Nevis",
+			"nameInternal": "place_KNA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-62.864,
+								17.287
+							],
+							[
+								-62.683,
+								17.287
+							],
+							[
+								-62.683,
+								17.418
+							],
+							[
+								-62.864,
+								17.418
+							],
+							[
+								-62.864,
+								17.287
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "07da9357-43d0-4f68-bc45-476cad7aa655",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "South Korea",
+			"nameInternal": "place_KOR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								126.089,
+								33.194
+							],
+							[
+								129.584,
+								33.194
+							],
+							[
+								129.584,
+								38.612
+							],
+							[
+								126.089,
+								38.612
+							],
+							[
+								126.089,
+								33.194
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "b77e0afa-13da-42e9-b8cd-f860bccc9a54",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Kuwait",
+			"nameInternal": "place_KWT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								46.543,
+								28.524
+							],
+							[
+								48.429,
+								28.524
+							],
+							[
+								48.429,
+								30.084
+							],
+							[
+								46.543,
+								30.084
+							],
+							[
+								46.543,
+								28.524
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "19056204-fd04-4799-9a06-e541d20af6cb",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Laos",
+			"nameInternal": "place_LAO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								100.087,
+								13.91
+							],
+							[
+								107.625,
+								13.91
+							],
+							[
+								107.625,
+								22.497
+							],
+							[
+								100.087,
+								22.497
+							],
+							[
+								100.087,
+								13.91
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "472bd3fc-0eb2-4c21-853d-9db435292af4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Lebanon",
+			"nameInternal": "place_LBN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								35.103,
+								33.093
+							],
+							[
+								36.617,
+								33.093
+							],
+							[
+								36.617,
+								34.683
+							],
+							[
+								35.103,
+								34.683
+							],
+							[
+								35.103,
+								33.093
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "44691837-d5f4-4b32-8862-7f16dfc84a3a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Liberia",
+			"nameInternal": "place_LBR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-11.486,
+								4.362
+							],
+							[
+								-7.365,
+								4.362
+							],
+							[
+								-7.365,
+								8.552
+							],
+							[
+								-11.486,
+								8.552
+							],
+							[
+								-11.486,
+								4.362
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "dad80a00-edef-4c61-826e-384ccfcb5c57",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Libya",
+			"nameInternal": "place_LBY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								9.392,
+								19.508
+							],
+							[
+								25.148,
+								19.508
+							],
+							[
+								25.148,
+								33.165
+							],
+							[
+								9.392,
+								33.165
+							],
+							[
+								9.392,
+								19.508
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "841ef74e-2392-4fd1-abf1-d0fee2572874",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saint Lucia",
+			"nameInternal": "place_LCA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.078,
+								13.721
+							],
+							[
+								-60.873,
+								13.721
+							],
+							[
+								-60.873,
+								14.11
+							],
+							[
+								-61.078,
+								14.11
+							],
+							[
+								-61.078,
+								13.721
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "47a8597b-bf41-48ce-8aa3-aae9582e25ce",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Liechtenstein",
+			"nameInternal": "place_LIE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								9.518,
+								47.062
+							],
+							[
+								9.608,
+								47.062
+							],
+							[
+								9.608,
+								47.27
+							],
+							[
+								9.518,
+								47.27
+							],
+							[
+								9.518,
+								47.062
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9f53e10f-a8bc-404e-95bc-a1356ea5ec22",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Sri Lanka",
+			"nameInternal": "place_LKA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								79.741,
+								5.938
+							],
+							[
+								81.866,
+								5.938
+							],
+							[
+								81.866,
+								9.828
+							],
+							[
+								79.741,
+								9.828
+							],
+							[
+								79.741,
+								5.938
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9e99c0ee-7aa3-485b-aed2-d6c42fd6a412",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Lesotho",
+			"nameInternal": "place_LSO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								27.014,
+								-30.663
+							],
+							[
+								29.456,
+								-30.663
+							],
+							[
+								29.456,
+								-28.571
+							],
+							[
+								27.014,
+								-28.571
+							],
+							[
+								27.014,
+								-30.663
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "5d1e31b1-962e-474b-997d-8f4a452ca19b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Lithuania",
+			"nameInternal": "place_LTU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								21.066,
+								53.901
+							],
+							[
+								26.826,
+								53.901
+							],
+							[
+								26.826,
+								56.417
+							],
+							[
+								21.066,
+								56.417
+							],
+							[
+								21.066,
+								53.901
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f783e402-96f6-4dab-a531-361b5489dd8e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Luxembourg",
+			"nameInternal": "place_LUX",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								5.745,
+								49.448
+							],
+							[
+								6.508,
+								49.448
+							],
+							[
+								6.508,
+								50.182
+							],
+							[
+								5.745,
+								50.182
+							],
+							[
+								5.745,
+								49.448
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "33b36081-562e-4f70-810d-f9391318ed08",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Latvia",
+			"nameInternal": "place_LVA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								21.066,
+								55.664
+							],
+							[
+								28.241,
+								55.664
+							],
+							[
+								28.241,
+								58.076
+							],
+							[
+								21.066,
+								58.076
+							],
+							[
+								21.066,
+								55.664
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "8748d181-d58e-4239-958c-ec0bc4492382",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saint-Martin",
+			"nameInternal": "place_MAF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-63.139,
+								18.052
+							],
+							[
+								-63.014,
+								18.052
+							],
+							[
+								-63.014,
+								18.117
+							],
+							[
+								-63.139,
+								18.117
+							],
+							[
+								-63.139,
+								18.052
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "dfab147b-6ed7-45b6-b57c-7c74e4025bbc",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Morocco",
+			"nameInternal": "place_MAR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-13.167,
+								27.67
+							],
+							[
+								-0.996,
+								27.67
+							],
+							[
+								-0.996,
+								35.912
+							],
+							[
+								-13.167,
+								35.912
+							],
+							[
+								-13.167,
+								27.67
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9071ec82-24ba-4465-9e54-0212f53deab1",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Moldova",
+			"nameInternal": "place_MDA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								26.631,
+								45.467
+							],
+							[
+								30.075,
+								45.467
+							],
+							[
+								30.075,
+								48.459
+							],
+							[
+								26.631,
+								48.459
+							],
+							[
+								26.631,
+								45.467
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "929e8778-dd0b-4ae4-ab26-38a567521df5",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Madagascar",
+			"nameInternal": "place_MDG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								43.228,
+								-25.597
+							],
+							[
+								50.471,
+								-25.597
+							],
+							[
+								50.471,
+								-11.952
+							],
+							[
+								43.228,
+								-11.952
+							],
+							[
+								43.228,
+								-25.597
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a6af2223-627c-491e-ad8f-ea02c1f4fb7a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "México",
+			"nameInternal": "place_MEX",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-117.123,
+								14.537
+							],
+							[
+								-86.727,
+								14.537
+							],
+							[
+								-86.727,
+								32.719
+							],
+							[
+								-117.123,
+								32.719
+							],
+							[
+								-117.123,
+								14.537
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "b15bc397-d328-4b73-b265-ca66c0ee87c0",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "North Macedonia",
+			"nameInternal": "place_MKD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								20.456,
+								40.858
+							],
+							[
+								23.006,
+								40.858
+							],
+							[
+								23.006,
+								42.304
+							],
+							[
+								20.456,
+								42.304
+							],
+							[
+								20.456,
+								40.858
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "7e61cf07-32fe-423b-a2e8-f35aa4070a25",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Mali",
+			"nameInternal": "place_MLI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-12.239,
+								10.162
+							],
+							[
+								4.243,
+								10.162
+							],
+							[
+								4.243,
+								25
+							],
+							[
+								-12.239,
+								25
+							],
+							[
+								-12.239,
+								10.162
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c9c8d51c-b751-4780-8782-348bd1282449",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Malta",
+			"nameInternal": "place_MLT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								14.336,
+								35.807
+							],
+							[
+								14.576,
+								35.807
+							],
+							[
+								14.576,
+								35.999
+							],
+							[
+								14.336,
+								35.999
+							],
+							[
+								14.336,
+								35.807
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1b8b1a0b-6587-4504-b2ca-4fae5447e031",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Myanmar",
+			"nameInternal": "place_MMR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								92.198,
+								10.012
+							],
+							[
+								101.155,
+								10.012
+							],
+							[
+								101.155,
+								28.504
+							],
+							[
+								92.198,
+								28.504
+							],
+							[
+								92.198,
+								10.012
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "480a52a7-17b0-400f-abbf-41c36046a87f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Montenegro",
+			"nameInternal": "place_MNE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								18.459,
+								41.866
+							],
+							[
+								20.314,
+								41.866
+							],
+							[
+								20.314,
+								43.56
+							],
+							[
+								18.459,
+								43.56
+							],
+							[
+								18.459,
+								41.866
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "24f4092d-d845-40d4-a8b6-208b09bcada4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Mongolia",
+			"nameInternal": "place_MNG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								87.75,
+								41.568
+							],
+							[
+								119.921,
+								41.568
+							],
+							[
+								119.921,
+								52.148
+							],
+							[
+								87.75,
+								52.148
+							],
+							[
+								87.75,
+								41.568
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "896fb50f-b68d-438a-b5c3-d8ee5c82b6f0",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Northern Mariana Islands",
+			"nameInternal": "place_MNP",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								145.159,
+								14.116
+							],
+							[
+								145.812,
+								14.116
+							],
+							[
+								145.812,
+								15.291
+							],
+							[
+								145.159,
+								15.291
+							],
+							[
+								145.159,
+								14.116
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "87c83729-0dac-47bf-9e0c-0d2061ca1ccd",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Mozambique",
+			"nameInternal": "place_MOZ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								30.219,
+								-26.858
+							],
+							[
+								40.835,
+								-26.858
+							],
+							[
+								40.835,
+								-10.471
+							],
+							[
+								30.219,
+								-10.471
+							],
+							[
+								30.219,
+								-26.858
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "5bc222c2-f6a2-47dc-9540-e5d2f4685465",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Mauritania",
+			"nameInternal": "place_MRT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-17.046,
+								14.759
+							],
+							[
+								-4.83,
+								14.759
+							],
+							[
+								-4.83,
+								27.298
+							],
+							[
+								-17.046,
+								27.298
+							],
+							[
+								-17.046,
+								14.759
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c935d155-c99c-4bed-a5f7-568cff572abf",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Montserrat",
+			"nameInternal": "place_MSR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-62.199,
+								16.675
+							],
+							[
+								-62.145,
+								16.675
+							],
+							[
+								-62.145,
+								16.824
+							],
+							[
+								-62.199,
+								16.824
+							],
+							[
+								-62.199,
+								16.675
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "00518e62-0685-4073-b9dd-1b29612d0748",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Martinique",
+			"nameInternal": "place_MTQ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.227,
+								14.395
+							],
+							[
+								-60.837,
+								14.395
+							],
+							[
+								-60.837,
+								14.879
+							],
+							[
+								-61.227,
+								14.879
+							],
+							[
+								-61.227,
+								14.395
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "da0cc71d-d352-4346-9df0-2259dce62df4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Mauritius",
+			"nameInternal": "place_MUS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								57.356,
+								-20.526
+							],
+							[
+								63.472,
+								-20.526
+							],
+							[
+								63.472,
+								-19.668
+							],
+							[
+								57.356,
+								-19.668
+							],
+							[
+								57.356,
+								-20.526
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "4ff3bf79-2c1a-4ea2-962f-aec5070b60e7",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Malawi",
+			"nameInternal": "place_MWI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								32.714,
+								-17.127
+							],
+							[
+								35.915,
+								-17.127
+							],
+							[
+								35.915,
+								-9.4
+							],
+							[
+								32.714,
+								-9.4
+							],
+							[
+								32.714,
+								-17.127
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "cc000c98-016c-4921-a4df-422588e5aad8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Malaysia",
+			"nameInternal": "place_MYS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								99.641,
+								0.858
+							],
+							[
+								119.267,
+								0.858
+							],
+							[
+								119.267,
+								7.363
+							],
+							[
+								99.641,
+								7.363
+							],
+							[
+								99.641,
+								0.858
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "ee9c8efa-e89f-4dbe-92f0-16bcf785123d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Mayotte",
+			"nameInternal": "place_MYT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								45.041,
+								-13
+							],
+							[
+								45.238,
+								-13
+							],
+							[
+								45.238,
+								-12.65
+							],
+							[
+								45.041,
+								-12.65
+							],
+							[
+								45.041,
+								-13
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e62298aa-89c8-4972-a4c7-2a80e0daddca",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Namibia",
+			"nameInternal": "place_NAM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								11.758,
+								-28.969
+							],
+							[
+								25.268,
+								-28.969
+							],
+							[
+								25.268,
+								-16.96
+							],
+							[
+								11.758,
+								-16.96
+							],
+							[
+								11.758,
+								-28.969
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1bb470fc-a23f-4357-9b04-8440ae4400cf",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "New Caledonia",
+			"nameInternal": "place_NCL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								163.999,
+								-22.676
+							],
+							[
+								168.133,
+								-22.676
+							],
+							[
+								168.133,
+								-20.077
+							],
+							[
+								163.999,
+								-20.077
+							],
+							[
+								163.999,
+								-22.676
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "16a5d24f-67e0-4241-9c69-eea6f9cd8b5f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Niger",
+			"nameInternal": "place_NER",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								0.166,
+								11.697
+							],
+							[
+								15.996,
+								11.697
+							],
+							[
+								15.996,
+								23.525
+							],
+							[
+								0.166,
+								23.525
+							],
+							[
+								0.166,
+								11.697
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "971994cf-4671-4f42-bc90-f9ed19e4cce0",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Nigeria",
+			"nameInternal": "place_NGA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								2.676,
+								4.273
+							],
+							[
+								14.656,
+								4.273
+							],
+							[
+								14.656,
+								13.892
+							],
+							[
+								2.676,
+								13.892
+							],
+							[
+								2.676,
+								4.273
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c6023509-733f-4646-a096-4fd5bcacdeb1",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Nicaragua",
+			"nameInternal": "place_NIC",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-87.691,
+								10.708
+							],
+							[
+								-83.147,
+								10.708
+							],
+							[
+								-83.147,
+								15.021
+							],
+							[
+								-87.691,
+								15.021
+							],
+							[
+								-87.691,
+								10.708
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f3e7fd2e-85f3-4951-af89-c6714e13a1ee",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Niue",
+			"nameInternal": "place_NIU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-169.923,
+								-19.148
+							],
+							[
+								-169.774,
+								-19.148
+							],
+							[
+								-169.774,
+								-18.959
+							],
+							[
+								-169.923,
+								-18.959
+							],
+							[
+								-169.923,
+								-19.148
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "699f796a-9985-4a78-afaf-d5283fb4742c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Netherlands",
+			"nameInternal": "place_NLD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								3.361,
+								50.723
+							],
+							[
+								7.211,
+								50.723
+							],
+							[
+								7.211,
+								53.463
+							],
+							[
+								3.361,
+								53.463
+							],
+							[
+								3.361,
+								50.723
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "356bff51-d9df-4966-b2fe-ef70c1d81590",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Norway",
+			"nameInternal": "place_NOR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								4.73,
+								57.98
+							],
+							[
+								31.046,
+								57.98
+							],
+							[
+								31.046,
+								71.151
+							],
+							[
+								4.73,
+								71.151
+							],
+							[
+								4.73,
+								57.98
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "cbb4c962-804f-47df-9276-a1de8bc9d5bc",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Nepal",
+			"nameInternal": "place_NPL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								80.066,
+								26.367
+							],
+							[
+								88.204,
+								26.367
+							],
+							[
+								88.204,
+								30.42
+							],
+							[
+								80.066,
+								30.42
+							],
+							[
+								80.066,
+								26.367
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "3d0fde5d-bd56-4a89-bb8c-d2421e00468e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "New Zealand",
+			"nameInternal": "place_NZL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-176.87,
+								-52.607
+							],
+							[
+								178.55,
+								-52.607
+							],
+							[
+								178.55,
+								-34.422
+							],
+							[
+								-176.87,
+								-34.422
+							],
+							[
+								-176.87,
+								-52.607
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "cd3e2149-844c-4315-abc5-330952fe8c69",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Oman",
+			"nameInternal": "place_OMN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								52,
+								16.642
+							],
+							[
+								59.809,
+								16.642
+							],
+							[
+								59.809,
+								26.345
+							],
+							[
+								52,
+								26.345
+							],
+							[
+								52,
+								16.642
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e0da8d0b-5e8e-43d4-b65b-dbe7102b524c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Pakistan",
+			"nameInternal": "place_PAK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								60.899,
+								23.705
+							],
+							[
+								75.364,
+								23.705
+							],
+							[
+								75.364,
+								36.89
+							],
+							[
+								60.899,
+								36.89
+							],
+							[
+								60.899,
+								23.705
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "b5129f51-514b-474d-9932-7f853a2151e1",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Panama",
+			"nameInternal": "place_PAN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-83.046,
+								7.204
+							],
+							[
+								-77.133,
+								7.204
+							],
+							[
+								-77.133,
+								9.617
+							],
+							[
+								-83.046,
+								9.617
+							],
+							[
+								-83.046,
+								7.204
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6d9a0a1b-33d7-408b-8784-b3c8accd6b82",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Peru",
+			"nameInternal": "place_PER",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-81.319,
+								-18.351
+							],
+							[
+								-68.657,
+								-18.351
+							],
+							[
+								-68.657,
+								-0.042
+							],
+							[
+								-81.319,
+								-0.042
+							],
+							[
+								-81.319,
+								-18.351
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "698f45f7-59d2-4392-ad41-65f33226c479",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Philippines",
+			"nameInternal": "place_PHL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								116.953,
+								5.056
+							],
+							[
+								126.601,
+								5.056
+							],
+							[
+								126.601,
+								19.574
+							],
+							[
+								116.953,
+								19.574
+							],
+							[
+								116.953,
+								5.056
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "67865d84-7048-48cc-93fb-7c00a9108c14",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Palau",
+			"nameInternal": "place_PLW",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								134.466,
+								7.35
+							],
+							[
+								134.638,
+								7.35
+							],
+							[
+								134.638,
+								7.732
+							],
+							[
+								134.466,
+								7.732
+							],
+							[
+								134.466,
+								7.35
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c7ceeb17-119d-4713-9797-907c6e054683",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Papua New Guinea",
+			"nameInternal": "place_PNG",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								140.854,
+								-11.604
+							],
+							[
+								155.952,
+								-11.604
+							],
+							[
+								155.952,
+								-1.319
+							],
+							[
+								140.854,
+								-1.319
+							],
+							[
+								140.854,
+								-11.604
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "adb2c151-b939-48b3-a7ae-8a40afec55c0",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Poland",
+			"nameInternal": "place_POL",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								14.159,
+								49.077
+							],
+							[
+								24.089,
+								49.077
+							],
+							[
+								24.089,
+								54.832
+							],
+							[
+								14.159,
+								54.832
+							],
+							[
+								14.159,
+								49.077
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e8ab4a04-9e4d-4e48-94e4-0c38f17b7bdd",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Puerto Rico",
+			"nameInternal": "place_PRI",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-67.27,
+								17.93
+							],
+							[
+								-65.34,
+								17.93
+							],
+							[
+								-65.34,
+								18.516
+							],
+							[
+								-67.27,
+								18.516
+							],
+							[
+								-67.27,
+								17.93
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "355ca73b-e454-4c10-b952-3bf71ae49524",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "North Korea",
+			"nameInternal": "place_PRK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								124.215,
+								37.73
+							],
+							[
+								130.674,
+								37.73
+							],
+							[
+								130.674,
+								43.002
+							],
+							[
+								124.215,
+								43.002
+							],
+							[
+								124.215,
+								37.73
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a7b5577b-2e9a-4883-ad38-bf0a4d81c55d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Portugal",
+			"nameInternal": "place_PRT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-31.257,
+								32.633
+							],
+							[
+								-6.189,
+								32.633
+							],
+							[
+								-6.189,
+								42.148
+							],
+							[
+								-31.257,
+								42.148
+							],
+							[
+								-31.257,
+								32.633
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "28af898d-41d7-486e-b194-99ba717d95cc",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Paraguay",
+			"nameInternal": "place_PRY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-62.642,
+								-27.601
+							],
+							[
+								-54.262,
+								-27.601
+							],
+							[
+								-54.262,
+								-19.295
+							],
+							[
+								-62.642,
+								-19.295
+							],
+							[
+								-62.642,
+								-27.601
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e0fe2076-faf3-4de4-9645-b1ecd9de73da",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Palestine",
+			"nameInternal": "place_PSE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								34.229,
+								31.224
+							],
+							[
+								35.56,
+								31.224
+							],
+							[
+								35.56,
+								32.552
+							],
+							[
+								34.229,
+								32.552
+							],
+							[
+								34.229,
+								31.224
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "2d429caa-3980-4f6c-86d3-bd198622cc9e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "French Polynesia",
+			"nameInternal": "place_PYF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-151.547,
+								-17.881
+							],
+							[
+								-138.889,
+								-17.881
+							],
+							[
+								-138.889,
+								-8.782
+							],
+							[
+								-151.547,
+								-8.782
+							],
+							[
+								-151.547,
+								-17.881
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6adedeae-24a9-46b2-98a9-76a3dd222bc9",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Qatar",
+			"nameInternal": "place_QAT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								50.763,
+								24.472
+							],
+							[
+								51.624,
+								24.472
+							],
+							[
+								51.624,
+								26.156
+							],
+							[
+								50.763,
+								26.156
+							],
+							[
+								50.763,
+								24.472
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f6182ed1-e67a-4cb5-8478-d8227fd269d2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Réunion",
+			"nameInternal": "place_REU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								55.216,
+								-21.388
+							],
+							[
+								55.837,
+								-21.388
+							],
+							[
+								55.837,
+								-20.872
+							],
+							[
+								55.216,
+								-20.872
+							],
+							[
+								55.216,
+								-21.388
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "2ba16887-198e-47df-b557-b11a5aef082a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Romania",
+			"nameInternal": "place_ROU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								20.266,
+								43.647
+							],
+							[
+								29.656,
+								43.647
+							],
+							[
+								29.656,
+								48.257
+							],
+							[
+								20.266,
+								48.257
+							],
+							[
+								20.266,
+								43.647
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "7aa0e072-9493-40e6-91b5-d9d9eff30d12",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Russia",
+			"nameInternal": "place_RUS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-180,
+								41.197
+							],
+							[
+								180,
+								41.197
+							],
+							[
+								180,
+								81.855
+							],
+							[
+								-180,
+								81.855
+							],
+							[
+								-180,
+								41.197
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6f617b8e-c04d-4d70-8acd-e059f5d4d8b3",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Rwanda",
+			"nameInternal": "place_RWA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								28.867,
+								-2.837
+							],
+							[
+								30.899,
+								-2.837
+							],
+							[
+								30.899,
+								-1.056
+							],
+							[
+								28.867,
+								-1.056
+							],
+							[
+								28.867,
+								-2.837
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9286997d-0e37-4677-9862-994c02a06a28",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saudi Arabia",
+			"nameInternal": "place_SAU",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								34.652,
+								16.393
+							],
+							[
+								55.667,
+								16.393
+							],
+							[
+								55.667,
+								32.152
+							],
+							[
+								34.652,
+								32.152
+							],
+							[
+								34.652,
+								16.393
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "71205281-6de4-4170-9f53-a8e9db742242",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Sudan",
+			"nameInternal": "place_SDN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								21.84,
+								8.679
+							],
+							[
+								38.57,
+								8.679
+							],
+							[
+								38.57,
+								23.145
+							],
+							[
+								21.84,
+								23.145
+							],
+							[
+								21.84,
+								8.679
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "7686f02d-dc7f-482c-826f-d224a24fb311",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Senegal",
+			"nameInternal": "place_SEN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-17.527,
+								12.308
+							],
+							[
+								-11.348,
+								12.308
+							],
+							[
+								-11.348,
+								16.648
+							],
+							[
+								-17.527,
+								16.648
+							],
+							[
+								-17.527,
+								12.308
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "95dd69b7-76e2-4987-b4c8-183fa9eaf511",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Singapore",
+			"nameInternal": "place_SGP",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								103.646,
+								1.262
+							],
+							[
+								103.991,
+								1.262
+							],
+							[
+								103.991,
+								1.471
+							],
+							[
+								103.646,
+								1.471
+							],
+							[
+								103.646,
+								1.262
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a1be9b24-e5bb-4cb5-940c-e79b0eecddca",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "South Georgia and the South Sand",
+			"nameInternal": "place_SGS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-37.833,
+								-58.483
+							],
+							[
+								-26.239,
+								-58.483
+							],
+							[
+								-26.239,
+								-53.972
+							],
+							[
+								-37.833,
+								-53.972
+							],
+							[
+								-37.833,
+								-58.483
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c901180d-5954-4084-bf26-4bbd896db203",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saint Helena, Ascension and Tris",
+			"nameInternal": "place_SHN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-14.393,
+								-37.171
+							],
+							[
+								-5.636,
+								-37.171
+							],
+							[
+								-5.636,
+								-7.889
+							],
+							[
+								-14.393,
+								-7.889
+							],
+							[
+								-14.393,
+								-37.171
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "3b3908ec-6d06-49d8-b4a1-3dbec0abd31d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Svalbard and Jan Mayen",
+			"nameInternal": "place_SJM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-9.074,
+								70.863
+							],
+							[
+								33.454,
+								70.863
+							],
+							[
+								33.454,
+								80.505
+							],
+							[
+								-9.074,
+								80.505
+							],
+							[
+								-9.074,
+								70.863
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "99b9d43e-288d-4286-b28c-8887129753af",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Solomon Islands",
+			"nameInternal": "place_SLB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								155.716,
+								-11.826
+							],
+							[
+								166.974,
+								-11.826
+							],
+							[
+								166.974,
+								-6.589
+							],
+							[
+								155.716,
+								-6.589
+							],
+							[
+								155.716,
+								-11.826
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "481dff16-0544-4a71-b09a-e1ebb7de2a1a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Sierra Leone",
+			"nameInternal": "place_SLE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-13.304,
+								6.918
+							],
+							[
+								-10.269,
+								6.918
+							],
+							[
+								-10.269,
+								10
+							],
+							[
+								-13.304,
+								10
+							],
+							[
+								-13.304,
+								6.918
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a216cac7-e243-4046-83ca-06958091b1c7",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "El Salvador",
+			"nameInternal": "place_SLV",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-90.125,
+								13.161
+							],
+							[
+								-87.718,
+								13.161
+							],
+							[
+								-87.718,
+								14.423
+							],
+							[
+								-90.125,
+								14.423
+							],
+							[
+								-90.125,
+								13.161
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "721e6efb-90e4-4863-a598-8768eb97d189",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "San Marino",
+			"nameInternal": "place_SMR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								12.413,
+								43.898
+							],
+							[
+								12.511,
+								43.898
+							],
+							[
+								12.511,
+								43.996
+							],
+							[
+								12.413,
+								43.996
+							],
+							[
+								12.413,
+								43.898
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6f5f67e7-197f-435f-b8fc-dcc62a724e0f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Somalia",
+			"nameInternal": "place_SOM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								40.987,
+								-1.642
+							],
+							[
+								51.415,
+								-1.642
+							],
+							[
+								51.415,
+								11.988
+							],
+							[
+								40.987,
+								11.988
+							],
+							[
+								40.987,
+								-1.642
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "bdf214e2-60ed-4dd0-b80b-9a80c7f94244",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saint Pierre and Miquelon",
+			"nameInternal": "place_SPM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-56.346,
+								46.791
+							],
+							[
+								-56.243,
+								46.791
+							],
+							[
+								-56.243,
+								47.145
+							],
+							[
+								-56.346,
+								47.145
+							],
+							[
+								-56.346,
+								46.791
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1eb7f757-47c2-484c-93ae-e99a7279ddc1",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Serbia",
+			"nameInternal": "place_SRB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								18.811,
+								42.248
+							],
+							[
+								22.956,
+								42.248
+							],
+							[
+								22.956,
+								46.189
+							],
+							[
+								18.811,
+								46.189
+							],
+							[
+								18.811,
+								42.248
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "51724566-46d2-417c-9829-9ec7bbb8b6b8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "South Sudan",
+			"nameInternal": "place_SSD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								24.153,
+								3.483
+							],
+							[
+								35.87,
+								3.483
+							],
+							[
+								35.87,
+								12.219
+							],
+							[
+								24.153,
+								12.219
+							],
+							[
+								24.153,
+								3.483
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "13745f11-52b9-43d9-a39a-e3f18fe91289",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Sao Tomé and Príncipe",
+			"nameInternal": "place_STP",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								6.461,
+								0.028
+							],
+							[
+								7.402,
+								0.028
+							],
+							[
+								7.402,
+								1.694
+							],
+							[
+								6.461,
+								1.694
+							],
+							[
+								6.461,
+								0.028
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a6c6b04f-145c-4acb-abf9-33401a34b816",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Suriname",
+			"nameInternal": "place_SUR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-58.086,
+								1.831
+							],
+							[
+								-53.992,
+								1.831
+							],
+							[
+								-53.992,
+								6.015
+							],
+							[
+								-58.086,
+								6.015
+							],
+							[
+								-58.086,
+								1.831
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "35f3fa32-388c-4b08-be7a-2a98782a6702",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Slovakia",
+			"nameInternal": "place_SVK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								16.843,
+								47.754
+							],
+							[
+								22.568,
+								47.754
+							],
+							[
+								22.568,
+								49.573
+							],
+							[
+								16.843,
+								49.573
+							],
+							[
+								16.843,
+								47.754
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "a5ccbefd-950c-489c-96d1-fb520ce01c2c",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Slovenia",
+			"nameInternal": "place_SVN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.382,
+								45.428
+							],
+							[
+								16.584,
+								45.428
+							],
+							[
+								16.584,
+								46.874
+							],
+							[
+								13.382,
+								46.874
+							],
+							[
+								13.382,
+								45.428
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "82c731ac-8af9-46c7-9cfa-70d6c5ce5d17",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Sweden",
+			"nameInternal": "place_SWE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								11.106,
+								55.338
+							],
+							[
+								24.154,
+								55.338
+							],
+							[
+								24.154,
+								69.059
+							],
+							[
+								11.106,
+								69.059
+							],
+							[
+								11.106,
+								55.338
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "5fc873c4-5250-4178-9b2b-7ea7607fc6d3",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Swaziland",
+			"nameInternal": "place_SWZ",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								30.803,
+								-27.318
+							],
+							[
+								32.133,
+								-27.318
+							],
+							[
+								32.133,
+								-25.719
+							],
+							[
+								30.803,
+								-25.719
+							],
+							[
+								30.803,
+								-27.318
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "29f7a042-b345-4c02-8d78-a2183a99557d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Sint Maarten",
+			"nameInternal": "place_SXM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-63.139,
+								18.018
+							],
+							[
+								-63.014,
+								18.018
+							],
+							[
+								-63.014,
+								18.053
+							],
+							[
+								-63.139,
+								18.053
+							],
+							[
+								-63.139,
+								18.018
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "1f77f799-29d1-4783-be10-7c2c190704de",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Seychelles",
+			"nameInternal": "place_SYC",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								46.268,
+								-9.468
+							],
+							[
+								55.49,
+								-9.468
+							],
+							[
+								55.49,
+								-4.631
+							],
+							[
+								46.268,
+								-4.631
+							],
+							[
+								46.268,
+								-9.468
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f53a74ad-4951-41ee-a405-87634fab6535",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Syria",
+			"nameInternal": "place_SYR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								35.735,
+								32.312
+							],
+							[
+								42.364,
+								32.312
+							],
+							[
+								42.364,
+								37.282
+							],
+							[
+								35.735,
+								37.282
+							],
+							[
+								35.735,
+								32.312
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "811f5ad6-5554-4967-ae70-205ffc1bc8e4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Turks and Caicos Islands",
+			"nameInternal": "place_TCA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-72.042,
+								21.587
+							],
+							[
+								-71.468,
+								21.587
+							],
+							[
+								-71.468,
+								21.963
+							],
+							[
+								-72.042,
+								21.963
+							],
+							[
+								-72.042,
+								21.587
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "068741da-6b31-4856-89e4-90ca8aaad2d4",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Chad",
+			"nameInternal": "place_TCD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								13.473,
+								7.441
+							],
+							[
+								24.002,
+								7.441
+							],
+							[
+								24.002,
+								23.45
+							],
+							[
+								13.473,
+								23.45
+							],
+							[
+								13.473,
+								7.441
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "0fbef86c-88a1-48d8-86f1-83f325d1d501",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Togo",
+			"nameInternal": "place_TGO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-0.135,
+								6.13
+							],
+							[
+								1.797,
+								6.13
+							],
+							[
+								1.797,
+								11.137
+							],
+							[
+								-0.135,
+								11.137
+							],
+							[
+								-0.135,
+								6.13
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "b00a4fa8-9887-4043-adb6-549e62b60173",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Thailand",
+			"nameInternal": "place_THA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								97.405,
+								5.616
+							],
+							[
+								105.638,
+								5.616
+							],
+							[
+								105.638,
+								20.463
+							],
+							[
+								97.405,
+								20.463
+							],
+							[
+								97.405,
+								5.616
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "4ae063fb-5237-46ec-9355-63c07e3a05fe",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Tajikistan",
+			"nameInternal": "place_TJK",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								67.392,
+								36.675
+							],
+							[
+								75.134,
+								36.675
+							],
+							[
+								75.134,
+								41.034
+							],
+							[
+								67.392,
+								41.034
+							],
+							[
+								67.392,
+								36.675
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d2cfd6ee-b901-41a8-8e82-bedadf4d0fec",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Turkmenistan",
+			"nameInternal": "place_TKM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								52.441,
+								35.138
+							],
+							[
+								66.64,
+								35.138
+							],
+							[
+								66.64,
+								42.727
+							],
+							[
+								52.441,
+								42.727
+							],
+							[
+								52.441,
+								35.138
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "eb0d2178-4f42-43e9-bc08-ec9872b9898f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Timor-Leste",
+			"nameInternal": "place_TLS",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								124.058,
+								-9.482
+							],
+							[
+								127.301,
+								-9.482
+							],
+							[
+								127.301,
+								-8.127
+							],
+							[
+								124.058,
+								-8.127
+							],
+							[
+								124.058,
+								-9.482
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d37618b3-40a1-499c-a137-c9e20dd562c0",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Tonga",
+			"nameInternal": "place_TON",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-175.335,
+								-21.439
+							],
+							[
+								-173.94,
+								-21.439
+							],
+							[
+								-173.94,
+								-18.575
+							],
+							[
+								-175.335,
+								-18.575
+							],
+							[
+								-175.335,
+								-21.439
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "3e2fc121-85b7-4c80-a60f-a769cb6d599f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Trinidad and Tobago",
+			"nameInternal": "place_TTO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.829,
+								10.076
+							],
+							[
+								-60.528,
+								10.076
+							],
+							[
+								-60.528,
+								11.347
+							],
+							[
+								-61.829,
+								11.347
+							],
+							[
+								-61.829,
+								10.076
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "997b8db9-10bc-48c7-9c84-b07b88143f47",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Tunisia",
+			"nameInternal": "place_TUN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								7.532,
+								30.237
+							],
+							[
+								11.598,
+								30.237
+							],
+							[
+								11.598,
+								37.335
+							],
+							[
+								7.532,
+								37.335
+							],
+							[
+								7.532,
+								30.237
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9d0c6f9d-57ea-44ce-9669-81536a326c7d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Turkey",
+			"nameInternal": "place_TUR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								25.671,
+								35.836
+							],
+							[
+								44.823,
+								35.836
+							],
+							[
+								44.823,
+								42.106
+							],
+							[
+								25.671,
+								42.106
+							],
+							[
+								25.671,
+								35.836
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "850b3223-c6d1-457c-8ed0-3c0f388d18e5",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Taiwan",
+			"nameInternal": "place_TWN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								118.295,
+								21.937
+							],
+							[
+								121.972,
+								21.937
+							],
+							[
+								121.972,
+								25.3
+							],
+							[
+								118.295,
+								25.3
+							],
+							[
+								118.295,
+								21.937
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "47980e07-1c87-40d4-96b1-890fe6363909",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Tanzania",
+			"nameInternal": "place_TZA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								29.337,
+								-11.746
+							],
+							[
+								40.436,
+								-11.746
+							],
+							[
+								40.436,
+								-0.993
+							],
+							[
+								29.337,
+								-0.993
+							],
+							[
+								29.337,
+								-11.746
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6a6e2eed-ea4a-4c85-8e5a-54ef22a3e3c9",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Uganda",
+			"nameInternal": "place_UGA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								29.593,
+								-1.481
+							],
+							[
+								35,
+								-1.481
+							],
+							[
+								35,
+								4.221
+							],
+							[
+								29.593,
+								4.221
+							],
+							[
+								29.593,
+								-1.481
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "b1a913a9-a1f3-4fe7-9932-73d376a2f95a",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Ukraine",
+			"nameInternal": "place_UKR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								22.157,
+								44.392
+							],
+							[
+								40.2,
+								44.392
+							],
+							[
+								40.2,
+								52.368
+							],
+							[
+								22.157,
+								52.368
+							],
+							[
+								22.157,
+								44.392
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "e79cb672-b2c9-43ef-ba7c-224274ac79c5",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Uruguay",
+			"nameInternal": "place_URY",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-58.42,
+								-34.948
+							],
+							[
+								-53.094,
+								-34.948
+							],
+							[
+								-53.094,
+								-30.089
+							],
+							[
+								-58.42,
+								-30.089
+							],
+							[
+								-58.42,
+								-34.948
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "97b3d5a9-0300-4dc1-be16-fd57e9847318",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "United States",
+			"nameInternal": "place_USA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-178.224,
+								18.935
+							],
+							[
+								179.761,
+								18.935
+							],
+							[
+								179.761,
+								71.306
+							],
+							[
+								-178.224,
+								71.306
+							],
+							[
+								-178.224,
+								18.935
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "2f3256ca-0315-4a15-b871-c408bd67d9fa",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Uzbekistan",
+			"nameInternal": "place_UZB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								55.998,
+								37.177
+							],
+							[
+								73.123,
+								37.177
+							],
+							[
+								73.123,
+								45.571
+							],
+							[
+								55.998,
+								45.571
+							],
+							[
+								55.998,
+								37.177
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "48a873d1-319c-4701-86d9-5822aaebe50b",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Saint Vincent and the Grenadines",
+			"nameInternal": "place_VCT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-61.277,
+								13.128
+							],
+							[
+								-61.114,
+								13.128
+							],
+							[
+								-61.114,
+								13.383
+							],
+							[
+								-61.277,
+								13.383
+							],
+							[
+								-61.277,
+								13.128
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "b995b1ba-06ab-417f-be78-0d51934515e6",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Venezuela",
+			"nameInternal": "place_VEN",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-73.347,
+								0.685
+							],
+							[
+								-59.833,
+								0.685
+							],
+							[
+								-59.833,
+								12.196
+							],
+							[
+								-73.347,
+								12.196
+							],
+							[
+								-73.347,
+								0.685
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "6b444110-e3f9-49a9-a735-1035102323e6",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "British Virgin Islands",
+			"nameInternal": "place_VGB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-64.663,
+								18.383
+							],
+							[
+								-64.563,
+								18.383
+							],
+							[
+								-64.563,
+								18.46
+							],
+							[
+								-64.663,
+								18.46
+							],
+							[
+								-64.663,
+								18.383
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "844bee6c-9be3-4136-a4e2-622d75dc35d2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Virgin Islands, U.S.",
+			"nameInternal": "place_VIR",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-64.997,
+								17.685
+							],
+							[
+								-64.667,
+								17.685
+							],
+							[
+								-64.667,
+								18.383
+							],
+							[
+								-64.997,
+								18.383
+							],
+							[
+								-64.997,
+								17.685
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "935d5d16-5f0c-4ff2-8f18-c24e8ae39b6e",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Vietnam",
+			"nameInternal": "place_VNM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								102.145,
+								8.599
+							],
+							[
+								109.456,
+								8.599
+							],
+							[
+								109.456,
+								23.392
+							],
+							[
+								102.145,
+								23.392
+							],
+							[
+								102.145,
+								8.599
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "719d34bb-4531-413b-aeda-a85646bf8bc6",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Vanuatu",
+			"nameInternal": "place_VUT",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								166.541,
+								-20.253
+							],
+							[
+								169.903,
+								-20.253
+							],
+							[
+								169.903,
+								-13.712
+							],
+							[
+								166.541,
+								-13.712
+							],
+							[
+								166.541,
+								-20.253
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "49d2a714-23df-4c76-901e-af1c3b14bdc7",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Wallis and Futuna",
+			"nameInternal": "place_WLF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-176.251,
+								-13.344
+							],
+							[
+								-176.199,
+								-13.344
+							],
+							[
+								-176.199,
+								-13.219
+							],
+							[
+								-176.251,
+								-13.219
+							],
+							[
+								-176.251,
+								-13.344
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "f3d7eb8b-c2f0-493c-b889-ad784b94328d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Samoa",
+			"nameInternal": "place_WSM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-172.787,
+								-14.045
+							],
+							[
+								-171.437,
+								-14.045
+							],
+							[
+								-171.437,
+								-13.44
+							],
+							[
+								-172.787,
+								-13.44
+							],
+							[
+								-172.787,
+								-14.045
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "9ff796f5-90af-434e-9b31-3ab1bff1553d",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Akrotiri and Dhekelia",
+			"nameInternal": "place_XAD",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								32.76,
+								34.564
+							],
+							[
+								33.907,
+								34.564
+							],
+							[
+								33.907,
+								35.069
+							],
+							[
+								32.76,
+								35.069
+							],
+							[
+								32.76,
+								34.564
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "c4c3efd4-e8a6-4089-bc28-ed9b7fbd2aba",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Caspian Sea",
+			"nameInternal": "place_XCA",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								46.834,
+								36.588
+							],
+							[
+								54.034,
+								36.588
+							],
+							[
+								54.034,
+								47.009
+							],
+							[
+								46.834,
+								47.009
+							],
+							[
+								46.834,
+								36.588
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d8d8a4a2-9537-4b2c-a4c0-6125b1326f6f",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Kosovo",
+			"nameInternal": "place_XKO",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								20.017,
+								41.866
+							],
+							[
+								21.793,
+								41.866
+							],
+							[
+								21.793,
+								43.207
+							],
+							[
+								20.017,
+								43.207
+							],
+							[
+								20.017,
+								41.866
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "d008f82b-3fde-4756-a8cc-4473c7765f71",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Yemen",
+			"nameInternal": "place_YEM",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								42.677,
+								12.304
+							],
+							[
+								54.473,
+								12.304
+							],
+							[
+								54.473,
+								19
+							],
+							[
+								42.677,
+								19
+							],
+							[
+								42.677,
+								12.304
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "98f44f33-65cf-4cc2-9fe5-5dba90931692",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Pakistan",
+			"nameInternal": "place_Z06",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								72.514,
+								32.778
+							],
+							[
+								77.843,
+								32.778
+							],
+							[
+								77.843,
+								37.06
+							],
+							[
+								72.514,
+								37.06
+							],
+							[
+								72.514,
+								32.778
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "313d6496-68e9-42cf-b6b5-27cba5be7cc8",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "South Africa",
+			"nameInternal": "place_ZAF",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								16.458,
+								-34.833
+							],
+							[
+								32.891,
+								-34.833
+							],
+							[
+								32.891,
+								-22.148
+							],
+							[
+								16.458,
+								-22.148
+							],
+							[
+								16.458,
+								-34.833
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "23c2e926-ed09-4f32-93e1-3988d6e46cf6",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Zambia",
+			"nameInternal": "place_ZMB",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								22.001,
+								-18.077
+							],
+							[
+								33.706,
+								-18.077
+							],
+							[
+								33.706,
+								-8.277
+							],
+							[
+								22.001,
+								-8.277
+							],
+							[
+								22.001,
+								-18.077
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "96c708f3-e854-45d7-b086-1d6dc62b2bd2",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Northern Cyprus",
+			"nameInternal": "place_ZNC",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								32.722,
+								35.044
+							],
+							[
+								34.491,
+								35.044
+							],
+							[
+								34.491,
+								35.66
+							],
+							[
+								32.722,
+								35.66
+							],
+							[
+								32.722,
+								35.044
+							]
+						]
+					]
+				}
+			}
+		}
+	},
+	{
+		"key": "71eb4895-0733-4f25-ab6d-40b0abd0d5bd",
+		"data": {
+			"applicationKey": "esaWorldCerealProductViewer",
+			"scopeKey": "10de783b-810b-4f8a-aceb-4c9e9f91d4d3",
+			"nameDisplay": "Zimbabwe",
+			"nameInternal": "place_ZWE",
+			"geometry": {
+				"type": "Feature",
+				"properties": {},
+				"geometry": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								25.238,
+								-22.42
+							],
+							[
+								33.055,
+								-22.42
+							],
+							[
+								33.055,
+								-15.611
+							],
+							[
+								25.238,
+								-15.611
+							],
+							[
+								25.238,
+								-22.42
+							]
+						]
+					]
+				}
+			}
+		}
+	}
+]

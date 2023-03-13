@@ -1,6 +1,7 @@
-const { v4: uuidv4 } = require('uuid');
+const {v4: uuidv4} = require('uuid');
 const fs = require('fs');
 const validator = require('validator');
+const envelope = require('@turf/envelope');
 
 const config = require('./inputs/config.json');
 const features = require('./inputs/fetaures.json');
@@ -21,15 +22,20 @@ function isValidJson(json) {
  * @param featureKey {string} feature key used for nameInternal
  * @param nameDisplay {string}
  * @param placeLinking {{applicationKey: string, scopeKey: string}}
+ * @param geometry {JSON}
  * @returns {Object} Panther's place metadata
  */
-function getPlaceMetadata(key, featureKey, nameDisplay, placeLinking) {
+function getPlaceMetadata(key, featureKey, nameDisplay, placeLinking, geometry) {
+    const geom = envelope(geometry);
+    const {bbox, ...feature} = geom;
+
     return {
         key,
         data: {
             ...(placeLinking || {}),
             nameDisplay,
-            nameInternal: `place_${featureKey}`
+            nameInternal: `place_${featureKey}`,
+            geometry: feature,
         }
     }
 }

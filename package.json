@@ -11,6 +11,7 @@
   "license": "",
   "dependencies": {
     "uuid": "^9.0.0",
-    "validator": "^13.7.0"
+    "validator": "^13.7.0",
+    "@turf/envelope": "^6.5.0"
   }
 }
